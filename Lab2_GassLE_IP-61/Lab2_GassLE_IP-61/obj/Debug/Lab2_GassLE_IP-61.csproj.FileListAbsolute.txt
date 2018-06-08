@@ -1,0 +1,6 @@
+E:\Univer\Дз-2_2\Шарпы\Lab2\Lab2_Project\Lab2_GassLE_IP-61\Lab2_GassLE_IP-61\bin\Debug\Lab2_GassLE_IP-61.exe.config
+E:\Univer\Дз-2_2\Шарпы\Lab2\Lab2_Project\Lab2_GassLE_IP-61\Lab2_GassLE_IP-61\bin\Debug\Lab2_GassLE_IP-61.exe
+E:\Univer\Дз-2_2\Шарпы\Lab2\Lab2_Project\Lab2_GassLE_IP-61\Lab2_GassLE_IP-61\bin\Debug\Lab2_GassLE_IP-61.pdb
+E:\Univer\Дз-2_2\Шарпы\Lab2\Lab2_Project\Lab2_GassLE_IP-61\Lab2_GassLE_IP-61\obj\Debug\Lab2_GassLE_IP-61.csprojResolveAssemblyReference.cache
+E:\Univer\Дз-2_2\Шарпы\Lab2\Lab2_Project\Lab2_GassLE_IP-61\Lab2_GassLE_IP-61\obj\Debug\Lab2_GassLE_IP-61.exe
+E:\Univer\Дз-2_2\Шарпы\Lab2\Lab2_Project\Lab2_GassLE_IP-61\Lab2_GassLE_IP-61\obj\Debug\Lab2_GassLE_IP-61.pdb
